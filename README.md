@@ -82,7 +82,9 @@ git clone https://github.com/Inder113/advanced-algorithms-system.git
 ```
 python filename.py
 ```
+## DEMO VIDEO
 
+https://1drv.ms/v/c/94d834202f37f7da/IQDUdKHInu64Roe0DzxqoJDaAYnAZkTFAT0f9X_tfyN9pt4?e=zvBmmi
 ---
 
 ## 📌 Note
